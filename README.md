@@ -9,3 +9,5 @@
 ![javascript](https://github.com/arkanos/badges/blob/master/badges/javascript.svg)
 
 ![react](https://github.com/arkanos/badges/blob/master/badges/react.svg)
+
+![npm](https://github.com/arkanos/badges/blob/master/badges/npm.svg)
