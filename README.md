@@ -11,3 +11,5 @@
 ![react](https://github.com/arkanos/badges/blob/master/badges/react.svg)
 
 ![npm](https://github.com/arkanos/badges/blob/master/badges/npm.svg)
+
+![nodejs](https://github.com/arkanos/badges/blob/master/badges/nodejs.svg)
