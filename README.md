@@ -1,11 +1,11 @@
 # SVG Badges set for README files
 
-![html5](https://github.com/arkanos/badges/blob/master/html5.svg?raw=true)
+![html5](https://github.com/arkanos/badges/blob/master/badges/html5.svg)
 
-![css3](https://github.com/arkanos/badges/blob/master/css3.svg?raw=true)
+![css3](https://github.com/arkanos/badges/blob/master/badges/css3.svg)
 
-![sass](https://github.com/arkanos/badges/blob/master/sass.svg?raw=true)
+![sass](https://github.com/arkanos/badges/blob/master/badges/sass.svg)
 
-![javascript](https://github.com/arkanos/badges/blob/master/javascript.svg?raw=true)
+![javascript](https://github.com/arkanos/badges/blob/master/badges/javascript.svg)
 
-![react](https://github.com/arkanos/badges/blob/master/react.svg?raw=true)
+![react](https://github.com/arkanos/badges/blob/master/badges/react.svg)
