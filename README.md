@@ -1,6 +1,6 @@
-### 🎖️ Badges set to use in README files
+#🎖️ Badges set to use in README files
 
-# 🛠️ How to use?
+## 🛠️ How to use?
 
 Just take a look at this README file (raw mode) and check the links below 💪
 
@@ -20,7 +20,7 @@ Available badges:
 
 ![nodejs](https://github.com/arkanos/badges/blob/master/badges/nodejs.svg)
 
-# ❓ FAQ
+## ❓ FAQ
 
 **Q: Can I use them somewhere else?**
 A: Yes, you can! Just embed the SVG file as usual in your HTML code.
