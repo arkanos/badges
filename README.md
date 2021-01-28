@@ -1,4 +1,4 @@
-#🎖️ Badges set to use in README files
+# 🎖️ Badges set to use in README files
 
 ## 🛠️ How to use?
 
